@@ -1,0 +1,4 @@
+interface:
+  display_name: "故事线及主题包装提炼"
+  short_description: "从项目事实提炼展览主题与故事线，建立命名、视觉锚点和重点展项的对应关系"
+  default_prompt: "使用 $curate-storyline-theme，根据本项目资料提炼主题包装与故事线，说明概念依据、节点衔接及视觉和展项的对应关系。"
